@@ -37,8 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashwinibaliga&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=prajwallshetty&theme=dark&hide_border=false)<br/>
 
 
 ###
